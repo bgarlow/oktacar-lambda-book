@@ -1,7 +1,9 @@
-# oktacar-lambda-vehicles
-Vehicle inventory API for Oktacar demo. This Lambda is for demo purposes only, and is designed to work with this custom Lambda Authorizer:
+# oktacar-lambda-book
+Booking API for Oktacar demo. This Lambda is for demo purposes only, and is designed to work with this custom Lambda Authorizer:
 
 https://github.com/bgarlow/oktacar-lambda-authorizer.git 
+
+#TODO - update docos below...
 
 ## Use Case
 
